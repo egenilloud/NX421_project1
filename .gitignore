@@ -1,1 +1,19 @@
 miniproject_2026_final/
+# Données (interdit de les uploader, et trop lourdes pour GitHub)
+data/
+outputs/
+output/
+*.nii
+*.nii.gz
+*.npy
+*.npz
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# macOS / éditeur
+.DS_Store
+.vscode/
