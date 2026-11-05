@@ -1,6 +1,11 @@
 # Données (interdit de les uploader, et trop lourdes pour GitHub)
 data/
 outputs/
+miniproject_2026_final/
+# Données (interdit de les uploader, et trop lourdes pour GitHub)
+data/
+outputs/
+output/
 *.nii
 *.nii.gz
 *.npy
