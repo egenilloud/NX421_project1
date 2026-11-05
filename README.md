@@ -22,7 +22,7 @@ notbooks/
 
 ## Data
 
-The data come from the Human Connectome Project and are not included in this repository. It is accessible through [this link] (https://drive.google.com/drive/u/2/folders/1P8_oebUgEBdF1urhXrYmxlmf6I_o4n8D)
+The data come from the Human Connectome Project and are not included in this repository. It is accessible through this link: https://drive.google.com/drive/u/2/folders/1P8_oebUgEBdF1urhXrYmxlmf6I_o4n8D
 Place them in `data/` with the structure above.
 
 ## Requirements
